@@ -13,7 +13,7 @@ This project is a full-stack web application for taking, organizing, and managin
 ## Technologies Used
 - **Frontend:** React, CSS, JavaScript
 - **Backend:** Django, Django REST Framework
-- **Database:** SQLite (or specify the database you’re using, e.g., PostgreSQL, MySQL)
+- **Database:**  PostgreSQL
 - **Version Control:** Git & GitHub
 
 ## Installation
